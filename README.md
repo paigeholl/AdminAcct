@@ -41,5 +41,4 @@ In this section, we'll create a Domain Admin account to use instead of the built
 ## Test the New Admin Account
 
 1. Sign out of the current Windows session
-2. Log in using your newly created admin credentials Windows session
-3. Log in using your newly created admin credentials
+2. Log in using your newly created admin credentials
